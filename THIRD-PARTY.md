@@ -1,0 +1,9 @@
+# Third-party boundaries
+The browser bundle includes Three.js r180 and fflate 0.8.3, both MIT. The build copies their upstream notices into wwwroot/licenses and retains embedded legal comments. esbuild and Playwright are development tools only. No browser, Unity engine binaries, glTFast binaries or commercial asset catalogue is embedded. Resolve Unity dependencies via Package Manager under their own terms.
+
+[Poly Haven API](https://polyhaven.com/our-api) and [asset license](https://polyhaven.com/license) were reviewed during the audit. Assets are identified as CC0; the service is attributed in the UI, source links and receipts. Website content, thumbnails and trademarks are not relicensed under GRID STUDIO's MIT license. The release contains no provider models or cached thumbnails. Files you import retain their original licensing; do not redistribute a Unity export without checking every receipt. The game project's unattributed GLB, historical reports and original art are excluded.
+
+Icosa Gallery discovery uses its public API (https://api.icosa.gallery/v1/docs). Only recognized CC BY, CC BY-SA or CC0 records with an allowlisted glTF 2 distribution are offered. Author and license version remain attached to each installed asset. Gallery models are not bundled or covered by the application license.
+The self-contained Windows x64 release includes Microsoft .NET and ASP.NET Core runtime packs. See licenses/ in the ZIP for their original license and third-party notices.
+
+Search terms outside the local vocabulary use MyMemory read-only lookup (https://mymemory.translated.net/doc/spec.php) with automatic language detection. Store alternatives use the public Shopify Ajax Predictive Search and cart currency endpoints at syntystore.com. Product images, listings, licenses and prices belong to their respective owners. No store packages are redistributed.

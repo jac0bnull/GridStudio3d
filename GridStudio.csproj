@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk.Web"><PropertyGroup><TargetFramework>net10.0</TargetFramework><AssemblyName>GridStudio</AssemblyName><DebugType>none</DebugType><DebugSymbols>false</DebugSymbols><Version>0.2.1-alpha</Version><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><DefaultItemExcludes>$(DefaultItemExcludes);node_modules/**;artifacts/**;.test-work/**;experiments/**;tests/**</DefaultItemExcludes></PropertyGroup><ItemGroup><Content Remove="wwwroot/vendor/**" /></ItemGroup></Project>
+
+
+
+

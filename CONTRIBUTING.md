@@ -1,0 +1,2 @@
+# Contributing
+Use a focused branch, explain the user-visible change and include a failure case as well as a working example. Follow the README verification commands. Preserve existing namespaces, public data formats and IDs unless you ship a tested migration. Supply provenance for contributed assets. Do not commit private workspaces, vendor caches, saves, credentials or logs. A screenshot or a successful compilation alone is not an end-to-end test. Maintainer review is required before publication.

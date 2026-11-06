@@ -1,0 +1,25 @@
+bin/
+obj/
+node_modules/
+dist/
+artifacts/
+.test-work/
+wwwroot/vendor/
+.env
+*.user
+*.log
+Library/
+Temp/
+UserSettings/
+Builds/
+Logs/
+.vs/
+secrets/
+wwwroot/studio.js
+wwwroot/licenses/
+# Per-user preferences and model storage do not belong in a source release.
+workbench-settings-v1.json
+GRID STUDIO Models/
+/library/
+/exports/
+/documents/

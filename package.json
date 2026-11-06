@@ -1,0 +1,20 @@
+{
+  "name": "grid-studio",
+  "version": "0.2.1-alpha",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/bundle.mjs",
+    "test:ui": "node tests/workbench.mjs"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.11",
+    "playwright": "1.56.1"
+  }
+}
+
+
